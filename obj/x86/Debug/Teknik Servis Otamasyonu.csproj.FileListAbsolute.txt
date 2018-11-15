@@ -1,0 +1,29 @@
+C:\Users\dursun\Desktop\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\bin\Debug\Teknik Servis Otamasyonu.exe.config
+C:\Users\dursun\Desktop\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\bin\Debug\Teknik Servis Otamasyonu.exe
+C:\Users\dursun\Desktop\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\bin\Debug\Teknik Servis Otamasyonu.pdb
+C:\Users\dursun\Desktop\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dursun\Desktop\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dursun\Desktop\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dursun\Desktop\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dursun\Desktop\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dursun\Desktop\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\Teknik Servis Otamasyonu.exe
+C:\Users\dursun\Desktop\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\Teknik Servis Otamasyonu.pdb
+C:\Users\dursun\Desktop\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\WindowsFormsApplication1.FormAnaSayfa.resources
+C:\Users\dursun\Desktop\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\WindowsFormsApplication1.FormMüşteriler.resources
+C:\Users\dursun\Desktop\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\WindowsFormsApplication1.FormArızaGiriş.resources
+C:\Users\dursun\Desktop\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\WindowsFormsApplication1.FormArızaÇıkış.resources
+C:\Users\dursun\Desktop\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\WindowsFormsApplication1.FormPersonel.resources
+E:\dursun\okul dosyaları\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\bin\Debug\Teknik Servis Otamasyonu.exe.config
+E:\dursun\okul dosyaları\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\Teknik Servis Otamasyonu.exe
+E:\dursun\okul dosyaları\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\Teknik Servis Otamasyonu.pdb
+E:\dursun\okul dosyaları\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\bin\Debug\Teknik Servis Otamasyonu.exe
+E:\dursun\okul dosyaları\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\bin\Debug\Teknik Servis Otamasyonu.pdb
+E:\dursun\okul dosyaları\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\dursun\okul dosyaları\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\WindowsFormsApplication1.FormAnaSayfa.resources
+E:\dursun\okul dosyaları\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\WindowsFormsApplication1.FormMüşteriler.resources
+E:\dursun\okul dosyaları\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\WindowsFormsApplication1.FormArızaGiriş.resources
+E:\dursun\okul dosyaları\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\WindowsFormsApplication1.FormArızaÇıkış.resources
+E:\dursun\okul dosyaları\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\WindowsFormsApplication1.FormPersonel.resources
+E:\dursun\okul dosyaları\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\dursun\okul dosyaları\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\Teknik Servis Otamasyonu.csproj.GenerateResource.Cache
+E:\dursun\okul dosyaları\görsel\Teknik Servis Otamasyonu\Teknik Servis Otamasyonu\obj\x86\Debug\Teknik Servis Otamasyonu.csprojResolveAssemblyReference.cache
